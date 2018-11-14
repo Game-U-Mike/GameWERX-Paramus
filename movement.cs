@@ -112,7 +112,7 @@ public class movement : MonoBehaviour {
 	}
 	void OnCollisionEnter (Collision other) {
 		if (other.gameObject.tag == "bounce"){
-			rb.velocity = new Vector3 (other.gameObject.transform.up.x * 40, other.gameObject.transform.up.y * Jumping * 2, other.gameObject.transform.up.z * 40);
+			rb.velocity = new Vector3 (other.gameObject.transform.up.x * 25, other.gameObject.transform.up.y * Jumping * 2, other.gameObject.transform.up.z * 25);
 			//rb.velocity = new Vector3 (other.gameObject.transform.up.x * rb.velocity.x, other.gameObject.transform.up.y * Jumping * 2, other.gameObject.transform.up.z * rb.velocity.z);
 			bounced = true;
 			}
