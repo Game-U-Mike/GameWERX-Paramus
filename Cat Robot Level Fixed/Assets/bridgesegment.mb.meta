@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: cc42a12ccf5a4374ea4baedc04898d67
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bridge
+    100002: //RootNode
+    100004: pCube1
+    100006: pCube2
+    100008: pCylinder1
+    100010: pSphere1
+    100012: pSphere2
+    100014: pSphere3
+    100016: pSphere4
+    100018: pSphere5
+    100020: pSphere6
+    100022: railingbase
+    100024: railingbase1
+    100026: railingbase2
+    100028: railingbase3
+    100030: railingbase4
+    100032: railingbase5
+    100034: railingbase6
+    100036: railingbase7
+    100038: railingbase8
+    100040: railingbase9
+    400000: bridge
+    400002: //RootNode
+    400004: pCube1
+    400006: pCube2
+    400008: pCylinder1
+    400010: pSphere1
+    400012: pSphere2
+    400014: pSphere3
+    400016: pSphere4
+    400018: pSphere5
+    400020: pSphere6
+    400022: railingbase
+    400024: railingbase1
+    400026: railingbase2
+    400028: railingbase3
+    400030: railingbase4
+    400032: railingbase5
+    400034: railingbase6
+    400036: railingbase7
+    400038: railingbase8
+    400040: railingbase9
+    2100000: lambert1
+    2300000: bridge
+    2300002: pCube1
+    2300004: pCube2
+    2300006: pCylinder1
+    2300008: pSphere1
+    2300010: pSphere2
+    2300012: pSphere3
+    2300014: pSphere4
+    2300016: pSphere5
+    2300018: pSphere6
+    2300020: railingbase
+    2300022: railingbase1
+    2300024: railingbase2
+    2300026: railingbase3
+    2300028: railingbase4
+    2300030: railingbase5
+    2300032: railingbase6
+    2300034: railingbase7
+    2300036: railingbase8
+    2300038: railingbase9
+    3300000: bridge
+    3300002: pCube1
+    3300004: pCube2
+    3300006: pCylinder1
+    3300008: pSphere1
+    3300010: pSphere2
+    3300012: pSphere3
+    3300014: pSphere4
+    3300016: pSphere5
+    3300018: pSphere6
+    3300020: railingbase
+    3300022: railingbase1
+    3300024: railingbase2
+    3300026: railingbase3
+    3300028: railingbase4
+    3300030: railingbase5
+    3300032: railingbase6
+    3300034: railingbase7
+    3300036: railingbase8
+    3300038: railingbase9
+    4300000: bridge
+    4300002: railingbase
+    4300004: railingbase1
+    4300006: railingbase2
+    4300008: railingbase3
+    4300010: railingbase4
+    4300012: railingbase5
+    4300014: railingbase6
+    4300016: railingbase7
+    4300018: railingbase8
+    4300020: railingbase9
+    4300022: pCube1
+    4300024: pCube2
+    4300026: pSphere1
+    4300028: pSphere2
+    4300030: pSphere3
+    4300032: pSphere4
+    4300034: pSphere5
+    4300036: pSphere6
+    4300038: pCylinder1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
